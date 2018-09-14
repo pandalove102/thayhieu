@@ -3,7 +3,7 @@
 try{
     
     $opt= array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION);
-    $pdo =new PDO('mysql:host=localhost;dbname=database1','root','',$opt);
+    $pdo =new PDO('mysql:host=sql308.epizy.com;dbname=epiz_22313752_database1','epiz_22313752','tqdgH8JBVMUJs',$opt);
     $pdo->query('set names utf8');
 }catch(PDOException $e)
 {
