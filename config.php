@@ -6,24 +6,26 @@ $lang['menu_content1']           = 'ARTISE SCHOOL';
 $lang['menu_content2']           = 'Giới Thiệu';
 $lang['menu_content3']           = 'Chương Trình Đào Tạo';
 
-$lang['menu_content4']           = 'Âm Nhạc Phương Tây';
-$lang['menu_content5']           = 'Menu Item';
-$lang['menu_content6']           = 'Menu Item';
-$lang['menu_content7']           = 'Menu Item';
+$lang['menu_content4']           = 'Chương trình Tháng';
+$lang['menu_content5']           = 'Tháng 1';
+$lang['menu_content6']           = 'Tháng 2';
+$lang['menu_content7']           = 'Tháng 3';
 
 
-$lang['menu_content8']           = 'Âm Nhạc Dân Tộc';
-$lang['menu_content9']           = 'Menu Item';
-$lang['menu_content10']           = 'Menu Item';
+$lang['menu_content8']           = 'Nghệ Thuật';
+$lang['menu_content9']           = 'Nghệ Thuật Truyền Thống';
+$lang['menu_content10']           = 'Nghệ Thuật';
 
 
 $lang['menu_content11']           = 'Đội Ngũ';
 $lang['menu_content12']           = 'Giảng Viên 1';
 $lang['menu_content13']           = 'Giảng Viên 2';
 
-$lang['menu_content14']           = 'Đội Ngũ';
+$lang['menu_content14']           = 'Về chúng tôi';
 $lang['menu_content15']           = 'Tin Tức và Sự Kiện';
 $lang['menu_content16']           = 'Liên Hệ';
+
+$lang['menu_content17']           = 'Nghệ Thuật Việt Nam';
 
 
 // page 1 
